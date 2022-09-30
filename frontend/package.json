@@ -58,7 +58,7 @@
     "react-helmet": "^6.1",
     "react-select": "^5.0.1",
     "react-table": "^7",
-    "recharts": "^2.0.8",
+    "recharts": "^2.1.14",
     "rooks": "^5",
     "sass": "^1",
     "typescript": "^4",
